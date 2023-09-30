@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SearchJob</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="button">Button</string>
+    <string name="search">Search</string>
+    <string name="description">Description</string>
+    <string name="logo">Image of the Logo</string>
+</resources>
